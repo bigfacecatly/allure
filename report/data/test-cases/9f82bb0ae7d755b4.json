@@ -1,0 +1,57 @@
+{
+  "uid" : "9f82bb0ae7d755b4",
+  "name" : "test_edit_shopping_trolley",
+  "fullName" : "test_shopping_trolley.TestShoppingTrolley#test_edit_shopping_trolley",
+  "historyId" : "87d7c92385158762fd4a279389ad6ab1",
+  "time" : {
+    "start" : 1602837769961,
+    "stop" : 1602837769961,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "修改购物车"
+  }, {
+    "name" : "feature",
+    "value" : "购物车功能"
+  }, {
+    "name" : "suite",
+    "value" : "test_shopping_trolley"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestShoppingTrolley"
+  }, {
+    "name" : "host",
+    "value" : "yandeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1934-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_shopping_trolley"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f82bb0ae7d755b4.json",
+  "parameterValues" : [ ]
+}

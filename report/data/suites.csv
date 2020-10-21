@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 16 17:10:55 CST 2020","Fri Oct 16 17:10:55 CST 2020","0","","test_shopping_trolley","TestShoppingTrolley","","","test_edit_shopping_trolley",""
+"skipped","Fri Oct 16 17:10:55 CST 2020","Fri Oct 16 17:10:55 CST 2020","0","","test_shopping_trolley","TestShoppingTrolley","","","test_delete_shopping_trolley",""
+"failed","Fri Oct 16 17:10:55 CST 2020","Fri Oct 16 17:10:55 CST 2020","4","","test_shopping_trolley","TestShoppingTrolley","","","test_add_shopping_trolley",""

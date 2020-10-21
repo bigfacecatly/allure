@@ -1,0 +1,138 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "yandeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "4134-MainThread",
+      "children" : [ {
+        "name" : "test_add_shopping_trolley",
+        "uid" : "857338cb906269b0",
+        "parentUid" : "01c5167faa7e4b904448beff26e6d1cc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1602838983681,
+          "stop" : 1602838983686,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_delete_shopping_trolley",
+        "uid" : "7b671a250ad28b46",
+        "parentUid" : "01c5167faa7e4b904448beff26e6d1cc",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1602838983739,
+          "stop" : 1602838983739,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_edit_shopping_trolley",
+        "uid" : "2f62db6da74e0c1d",
+        "parentUid" : "01c5167faa7e4b904448beff26e6d1cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602838983737,
+          "stop" : 1602838983737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "01c5167faa7e4b904448beff26e6d1cc"
+    }, {
+      "name" : "1934-MainThread",
+      "children" : [ {
+        "name" : "test_edit_shopping_trolley",
+        "uid" : "9f82bb0ae7d755b4",
+        "parentUid" : "2365fab76e90388e355608911c302c50",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602837769961,
+          "stop" : 1602837769961,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_delete_shopping_trolley",
+        "uid" : "51f797164e45c2f",
+        "parentUid" : "2365fab76e90388e355608911c302c50",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1602837769962,
+          "stop" : 1602837769962,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_shopping_trolley",
+        "uid" : "cc1a1dd4c75f43e3",
+        "parentUid" : "2365fab76e90388e355608911c302c50",
+        "status" : "failed",
+        "time" : {
+          "start" : 1602837769911,
+          "stop" : 1602837769915,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2365fab76e90388e355608911c302c50"
+    }, {
+      "name" : "4300-MainThread",
+      "children" : [ {
+        "name" : "test_add_shopping_trolley",
+        "uid" : "c74a76009ae544ec",
+        "parentUid" : "6eaea2fbf4984f6ede2ba3bd3a7cf560",
+        "status" : "failed",
+        "time" : {
+          "start" : 1602839455139,
+          "stop" : 1602839455143,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_edit_shopping_trolley",
+        "uid" : "8b1d3ffffcfa14b9",
+        "parentUid" : "6eaea2fbf4984f6ede2ba3bd3a7cf560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602839455186,
+          "stop" : 1602839455186,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_delete_shopping_trolley",
+        "uid" : "7e04f6d8b80dd29",
+        "parentUid" : "6eaea2fbf4984f6ede2ba3bd3a7cf560",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1602839455187,
+          "stop" : 1602839455187,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6eaea2fbf4984f6ede2ba3bd3a7cf560"
+    } ],
+    "uid" : "815ade3c25eefd91a5a54b20b0ecc65d"
+  } ]
+}
